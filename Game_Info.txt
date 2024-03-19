@@ -1,0 +1,31 @@
+aaa01, PS4, Action, TheLegendofHeroes, NihonFalcom, 2023-01-15
+xyz02, XboxOne, Adventure, Assassin'sCreedValhalla, Ubisoft, 2023-02-05
+rpg03, PC, Role-Playing, Cyberpunk2077, CDProjekt,2023-03-10
+fgh04, NintendoSwitch, First-PersonShooter,Splatoon2,Nintendo,2023-04-22
+ffi05, PlayStation,Sports,FIFA22,EASports,2023-05-07
+rac06, XboxSeriesX,Racing,ForzaHorizon5,MicrosoftStudios,2023-06-18
+ind07, PC, Indie, HollowKnight, TeamCherry,2023-07-02
+hrr08, PlayStation, Horror, ResidentEvilVillage, Capcom,2023-08-14
+sfv09, Arcay, Action, Fighting, StreetFighterV, Capcom,2023-09-30
+mmo10, PC, MultiplayerOnline, WorldofWarcraft, BlizzardEntertainment,2023-10-12
+adv11, NintendoSwitch, Adventure, TheLegendofZelda, Nintendo,2023-11-25
+sim12, PC,Simulation,TheSims4,ElectronicArts,2023-12-09
+vrg13, OculusRift, VirtualReality, BeatSaber, BeatGames,2022-01-21
+act14, PlayStation,Action, Marvel'sSpider-Man:MilesMorales, Sony, 2022-02-05
+rts15, Xbox, Strategy, AgeofEmpiresIV, XboxGameStudios,2022-03-18
+pla16, PC, Platformer, Celeste, MaddyMakesGames,2022-04-02
+puz17, NintendoSwitch,Puzzle,Tetris99,Nintendo,2023-05-14
+srp18, PlayStation, RPG, FireEmblem:ThreeHouses, Nintendo,2023-06-28
+mob19, PC,MultiplayerOnlineBattleArena,LeagueofLegends, RiotGames,2023-07-11
+spt20, XboxOne,Sports,MaddenNFL22,EASports,2023-08-23
+aab01, PS4, Action, TheLastofUsPartII, SonyInteractiveEntertainment,2023-01-15
+tnd02, XboxOne, Adventure,Uncharted4:AThief'sEnd, NaughtyDog,2023-02-05
+sqe03, PC, Role-Playing, FinalFantasyXV, SquareEnix,2023-03-10
+fps04, Switch,First-PersonShooter,Splatoon2,Nintendo,2023-04-22
+spt05, PS5,Sports,FIFA22,EASports,2023-05-07
+rfh06, XboxSeriesX,Racing,ForzaHorizon4,MicrosoftStudios,2023-06-18
+cca07, PC,Indie,StardewValley,ConcernedApe,2023-07-02
+hre08, PS4,Horror, ResidentEvil7:Biohazard,Capcom,2023-08-14
+ftk09, Arcade, Fighting, Tekken7, BandaiNamco,2023-09-30
+gwr10, PC, MMORPG, GuildWars2, ArenaNet,2023-10-12
+tuv16, PC, Sports, Tennis UltaVersion, MicrosoftStudios, 2022-09-05

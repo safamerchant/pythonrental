@@ -1,0 +1,8 @@
+GameID,Rating,Comments
+cod01,5,Excellent game!
+fifa02,4,Good but could be better.
+acr03,3,Average experience.
+tlo04,2,Not very engaging.
+cod01,5,Highly enjoyable!
+game123,4,"Great game, but could be improved.
+aab01,3,loved it soooo much
